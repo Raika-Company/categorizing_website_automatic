@@ -160,6 +160,5 @@ cython_debug/
 #.idea/
 
 #custom datasets
-*.zip
-*.csv
-*.pcap
+Kaggle-Dataset-CSV
+Kaggle-Datasets-PCAP/
