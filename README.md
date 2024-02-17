@@ -1,4 +1,3 @@
-
 # Website Classification Model
 
 ## Introduction
@@ -38,8 +37,8 @@ For collecting more datasets and information I used two different technologies w
 
 ## Model Architecture
 
-The classification model uses a different algorithms, because I want to check the accuracy and perfomance of them. For first step of training I check classification of algorithms like
-Random Forest , Decision Tree.
+The classification model uses a different algorithms, because I want to check the accuracy and perfomance of them. For first step of training I check classification of algorithms like Random Forest , Decision Tree. You can find the Random Forest implementation is NFstream.ipynb file that is our first version of training model. In later research, I find the BERT model which is for NLP machine learning programs due to,
+I work with that which is in bert.ipynb file and I put comments for each block code.
 
 # Set up a virtual environment
 
